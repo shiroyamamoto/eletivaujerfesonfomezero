@@ -3,19 +3,19 @@ html, body {
     margin: 0;
 }
 #imagem_fundo {
-    background: url("caminho_educacao.jpeg");
+    background: url("img/gato-preto.png");
     height: 100%;
     text-align: center;
 }
 #titulo {
-    color: black;
+    color: rgb(255, 180, 234);
     padding-top: 20%;
     font-size: 70px;
     line-height: 0.6;
 
 }
 #subtitulo {
-    color: black;
+    color: rgb(9, 2, 2);
     margin-left: 20%;
     margin-right: 20%;
     border-top: 3px solid black;
