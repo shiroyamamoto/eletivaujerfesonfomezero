@@ -8,7 +8,7 @@ html, body {
     text-align: center;
 }
 #titulo {
-    color: rgb(255, 180, 234);
+    color: rgb(0, 0, 0);
     padding-top: 20%;
     font-size: 70px;
     line-height: 0.6;
@@ -22,7 +22,7 @@ html, body {
     text-shadow: 1px 1px  black;
 }
 #acao {
-    color: white;
+    color: rgb(0, 0, 0);
     border: 1px white solid;
     padding: 10px 20px 10px 20px ;
 }
@@ -36,22 +36,22 @@ html, body {
     background-image: cover;
 }
 #titulo {
-    color: white;
+    color: rgb(0, 0, 0);
     padding-top: 20%;
     font-size: 70px;
     line-height: 0.6;
 
 }
 #subtitulo {
-    color: white;
+    color: rgb(0, 0, 0);
     margin-left: 20%;
     margin-right: 20%;
-    border-top: 3px solid white;
+    border-top: 3px solid rgb(0, 0, 0);
     text-shadow: 1px 1px  black;
 }
 #acao {
-    color: white;
-    border: 1px white solid;
+    color: rgb(0, 0, 0);
+    border: 1px rgb(14, 12, 12) solid;
     padding: 10px 20px 10px 20px ;
 }
 .icone {
@@ -61,7 +61,7 @@ section {
     padding: 20px;
 }
 .destaque {
-    background-color: #f7f7f7;
+    background-color: #7a378a;
 }
 .imgeco {
     width: 90%;
