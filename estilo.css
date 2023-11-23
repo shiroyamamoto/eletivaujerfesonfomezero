@@ -154,9 +154,9 @@ section {
       padding: 10px;  /* Define o padding como 10px */
     }
     figure .titulo {  /* Define o estilo do título */
-      color: #FFF;  /* Define a cor como #FFF */
+      color: #8e8e8e;  /* Define a cor como #FFF */
       line-height: 0.9; /* Define o line-height como 0.9 */
-      text-shadow: 1px 1px black; /* Define o text-shadow como 1px 1px black */
+      text-shadow: 1px 1px #656262; /* Define o text-shadow como 1px 1px black */
     }
     figure h1.titulo {  /* Define o estilo do título h1 */
       font-size: 70px;  /* Define o tamanho da fonte como 70px */
@@ -168,13 +168,13 @@ section {
       padding-top: 20px;    /* Define o padding-top como 20px */
       font-size: 30px;  /* Define o tamanho da fonte como 30px */
       margin: 0 30% 0 30%;  /* Define a margem como 0 30% 0 30% */
-      border-top: 3px solid white;  /* Define a borda superior como 3px solid white */
+      border-top: 3px solid rgb(81, 78, 78);  /* Define a borda superior como 3px solid white */
       padding-bottom: 30px; /* Define o padding-bottom como 30px */
     }
     .cta {  /* Define o estilo do botão */
-      border: 1px solid white;  /* Define a borda como 1px solid white */
+      border: 1px solid rgb(27, 27, 27);  /* Define a borda como 1px solid white */
       border-radius: 8px; /* Define o border-radius como 8px */
-      color: white; /* Define a cor como white */
+      color: rgb(14, 13, 13); /* Define a cor como white */
       padding: 10 20 10 20; /* Define o padding como 10 20 10 20 */
       text-decoration: initial; /* Define o text-decoration como initial */
       font-size: 20px;  /* Define o tamanho da fonte como 20px */
